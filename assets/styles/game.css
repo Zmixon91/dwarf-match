@@ -27,11 +27,12 @@ body {
     font-size: 3em;
     text-align: center;
     line-height: 200px;
+      border-radius: .15em;
 }
 .flip .card .front {
   position: absolute;
   z-index: 1;
-    background: black;
+    background: blue;
     color: white;
     cursor: pointer;
 }
